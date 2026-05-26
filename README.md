@@ -9,7 +9,8 @@
 <br/>
 
 Platform and backend engineer with 2+ years building cloud-native systems, distributed APIs, and data infrastructure.<br/>
-Previously **SDE @ Fidelity Investments** &nbsp;·&nbsp; R&D Intern @ **Samsung** &nbsp;·&nbsp; M.Sc. CS @ **NUS** &nbsp;·&nbsp; Published @ **IEEE ICCCNT 2024**
+Previously **SDE @ Fidelity Investments** &nbsp;·&nbsp; R&D Intern @ **Samsung** &nbsp;·&nbsp; M.Sc. CS @ **NUS**<br/>
+[IEEE ICCCNT 2024 — Innovations in Real-Time Speech Translation](https://ieeexplore.ieee.org/document/10725517)
 
 <br/>
 
@@ -17,6 +18,10 @@ Previously **SDE @ Fidelity Investments** &nbsp;·&nbsp; R&D Intern @ **Samsung*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/himanshu-maithani-66122116a/)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:himanshumaithani2002@gmail.com)
 <!-- [![X](https://img.shields.io/badge/@wendemsky-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wendemsky) -->
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=wendemsky&color=grey&style=flat-square&label=profile+views)
 
 </div>
 
@@ -26,10 +31,8 @@ Previously **SDE @ Fidelity Investments** &nbsp;·&nbsp; R&D Intern @ **Samsung*
 
 ### What I build
 
-```
-Backend Infrastructure   ·   Distributed Systems    ·   AI Agent Networks
-Data Pipelines           ·   Cloud Architecture     ·   Multi-Agent Frameworks
-```
+`Backend Infrastructure` &nbsp;·&nbsp; `Distributed Systems` &nbsp;·&nbsp; `AI Agent Networks`<br/>
+`Data Pipelines` &nbsp;·&nbsp; `Cloud Architecture` &nbsp;·&nbsp; `Multi-Agent Frameworks`
 
 ---
 
