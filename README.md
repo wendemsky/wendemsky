@@ -9,14 +9,14 @@
 <br/>
 
 Platform and backend engineer with 2+ years building cloud-native systems, distributed APIs, and data infrastructure.<br/>
-Previously **SDE @ Fidelity Investments** &nbsp;·&nbsp; Intern @ **SATS Ltd.** &nbsp;·&nbsp; M.Sc. CS @ **NUS** &nbsp;·&nbsp; Published @ **IEEE ICCCNT 2024**
+Previously **SDE @ Fidelity Investments** &nbsp;·&nbsp; R&D Intern @ **Samsung** &nbsp;·&nbsp; M.Sc. CS @ **NUS** &nbsp;·&nbsp; Published @ **IEEE ICCCNT 2024**
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/himanshumaithani.com-000?style=flat-square&logo=safari&logoColor=white)](https://himanshumaithani.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-maithani)&nbsp;
-[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshumaithani2002@gmail.com)&nbsp;
-[![X](https://img.shields.io/badge/@wendemsky-000?style=flat-square&logo=x&logoColor=white)](https://x.com/wendemsky)
+[![Portfolio](https://img.shields.io/badge/himanshumaithani.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://himanshumaithani.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/himanshu-maithani-66122116a/)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:himanshumaithani2002@gmail.com)
+<!-- [![X](https://img.shields.io/badge/@wendemsky-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wendemsky) -->
 
 </div>
 
@@ -88,9 +88,9 @@ MCP OAuth 2.1/PKCE · GKE · Terraform IaC · Prometheus/Grafana · 201 tests
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wendemsky&show_icons=true&bg_color=000000&border_color=222222&icon_color=aaaaaa&title_color=ffffff&text_color=777777&hide_border=false&count_private=true&rank_icon=github" height="155" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendemsky&layout=compact&bg_color=000000&border_color=222222&title_color=ffffff&text_color=777777&hide_border=false" height="155" />
+<img src="https://streak-stats.demolab.com/?user=wendemsky&theme=dark&background=000000&border=222222&stroke=333333&ring=888888&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=666666&sideLabels=666666&dates=555555" height="155" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wendemsky&bg_color=000000&color=666666&line=333333&point=ffffff&area=true&area_color=111111&hide_border=false&border_color=222222" width="100%" />
 
 </div>
 
