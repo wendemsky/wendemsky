@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=110&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Himanshu%20Maithani&fontSize=52&fontColor=ffffff&fontAlignY=62&animation=fadeIn&fontAlign=50" width="100%" />
 
-# Himanshu Maithani
-
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=15&duration=2800&pause=1200&color=777777&center=true&vCenter=true&width=520&lines=Backend+%C2%B7+Distributed+Systems+%C2%B7+AI+Infrastructure;Platform+%26+Backend+Engineer;Building+systems+that+scale." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=1200&color=666666&center=true&vCenter=true&width=520&lines=Backend+%C2%B7+Distributed+Systems+%C2%B7+AI+Infrastructure;Platform+%26+Backend+Engineer;Building+systems+that+scale." alt="Typing SVG" />
 
 <br/>
 
@@ -19,9 +17,6 @@ Previously **SDE @ Fidelity Investments** &nbsp;·&nbsp; R&D Intern @ **Samsung*
 [![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:himanshumaithani2002@gmail.com)
 <!-- [![X](https://img.shields.io/badge/@wendemsky-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wendemsky) -->
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=wendemsky&color=grey&style=flat-square&label=profile+views)
 
 </div>
 
@@ -102,6 +97,8 @@ MCP OAuth 2.1/PKCE · GKE · Terraform IaC · Prometheus/Grafana · 201 tests
 <div align="center">
 
 *Actively looking for full-time backend / platform engineering roles — [let's talk](mailto:himanshumaithani2002@gmail.com)*
+
+![](https://komarev.com/ghpvc/?username=wendemsky&color=555555&style=flat-square&label=profile+views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer" width="100%" />
 
