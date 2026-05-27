@@ -7,8 +7,9 @@
 <br/><br/>
 
 Platform and backend engineer with 2+ years building cloud-native systems, distributed APIs, and data infrastructure.<br/>
-Previously **SDE @ Fidelity Investments** &nbsp;·&nbsp; R&D Intern @ **Samsung** &nbsp;·&nbsp; M.Sc. CS @ **NUS**<br/>
-[IEEE ICCCNT 2024 — Innovations in Real-Time Speech Translation](https://ieeexplore.ieee.org/document/10725517)
+Previously **SDE @ Fidelity Investments** &nbsp;·&nbsp; R&D Intern @ **Samsung** &nbsp;·&nbsp; M.Sc. CS @ **NUS**
+
+<sub>[📄 IEEE ICCCNT 2024 — Innovations in Real-Time Speech Translation](https://ieeexplore.ieee.org/document/10725517)</sub>
 
 <br/>
 
