@@ -85,9 +85,9 @@ MCP OAuth 2.1/PKCE · GKE · Terraform IaC · Prometheus/Grafana · 201 tests
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=wendemsky&theme=dark&background=000000&border=222222&stroke=333333&ring=888888&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=666666&sideLabels=666666&dates=555555" height="155" />
+<img src="https://streak-stats.demolab.com/?user=wendemsky&theme=dark&background=000000&hide_border=true&stroke=222222&ring=555555&fire=aaaaaa&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=444444&sideLabels=444444&dates=444444" height="150" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wendemsky&bg_color=000000&color=666666&line=333333&point=ffffff&area=true&area_color=111111&hide_border=false&border_color=222222" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wendemsky&bg_color=000000&color=555555&line=2a2a2a&point=aaaaaa&area=true&area_color=111111&hide_border=true&custom_title=Contributions" width="90%" />
 
 </div>
 
